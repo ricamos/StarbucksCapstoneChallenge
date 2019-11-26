@@ -51,12 +51,16 @@ Event log (306648 events x 4 fields)
 - time: (numeric) hours after start of test
 
 ## How to interact with your project <a name="interact"></a>
-
+https://link.medium.com/EXkLX6m5U1
 
 ## Licensing <a name="licensing"></a>
-
 
 ## Authors <a name="author"></a>
 Ricardo Coelho and Udacity
 
 ## Acknowledgements <a name="ack"></a>
+Mapping of custumers
+Features importance
+Confusion Matrix
+Precision
+Recall
