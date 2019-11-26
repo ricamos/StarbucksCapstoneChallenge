@@ -59,8 +59,8 @@ https://link.medium.com/EXkLX6m5U1
 Ricardo Coelho and Udacity
 
 ## Acknowledgements <a name="ack"></a>
-Mapping of custumers
-Features importance
-Confusion Matrix
-Precision
-Recall
+- Mapping of custumers
+- Features importance
+- Confusion Matrix
+- Precision
+- Recall
